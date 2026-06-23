@@ -1,4 +1,4 @@
-# Quantum-computing
+# Quantum-state-preparation
 Quantum State Preparation in Qiskit
 
 This repository explores quantum state preparation using Qiskit, starting from simple examples and gradually building toward more general quantum states.
